@@ -1,8 +1,5 @@
 <template>
   <div>
-    <logo />
-    <h1 class="title">Yo. ql. Nuxt.js & Netlify CMS Starter</h1>
-
     <header id="header-3" class="soft-scroll header-3" data-pg-collapsed>
       <nav>
         <div class="container">
