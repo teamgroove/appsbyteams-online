@@ -1,7 +1,7 @@
 <template>
   <div>
     <logo />
-    <h1 class="title">Yo. Nuxt.js & Netlify CMS Starter</h1>
+    <h1 class="title">Yo. ql. Nuxt.js & Netlify CMS Starter</h1>
   </div>
 </template>
 
